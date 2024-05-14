@@ -1,5 +1,5 @@
 
-![image](https://github.com/FabioAgroTechnology/prompts-inteligentes-para-podcast/assets/86381956/f745354a-e6b9-4067-9791-4403a6ab073a)
+<[image](https://github.com/FabioAgroTechnology/prompts-inteligentes-para-podcast/assets/86381956/f745354a-e6b9-4067-9791-4403a6ab073a)>
 
 preview do podcast
 
